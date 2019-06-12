@@ -6,3 +6,12 @@ PIL的官方版本，但是最后一次维护是2009年，现以宣布停止维�
 pip uninstall PIL
 在安装Pillow
 pip install pillow
+
+
+matpoltlibDemo中写了画线和点的demo
+添加了画饼图的demo，对pie函数的参数做了详细的解释
+
+
+
+
+#小弟新手，大神勿喷
